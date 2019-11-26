@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-14_2035",
-    "currentPage": "elitebuyer.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startupamp",
       "title": "StartupAMP",
@@ -48,10 +48,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 12,
+    "uniqCompNum": 15,
     "versionPublish": "4.11.5",
-    "screenshot": "screenshot.png",
-    "canonical-url": false
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -171,7 +170,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -421,11 +420,11 @@
             ".bgwhite": {
               "background-color": "white",
               "padding": "30px",
-              "border-radius": "2rem",
+              "border-radius": "0rem",
               "box-shadow": "0px 0px 60px 10px rgba(0, 0, 0, 0.3)"
             },
             ".mbr-section-btn": {
-              "margin-bottom": "2rem"
+              "margin-bottom": "0rem"
             },
             ".text2, .title2": {
               "color": "#0a193b",
@@ -453,6 +452,52 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        }
+      ]
+    },
+    "termsandpolicy.html": {
+      "settings": {
+        "title": "Terms and Privacy",
+        "order": 2
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid AMP HTML here -->\n<!-- for more info: https://www.ampproject.org/ -->\n\n<div>\n   <h2>\n\tWeb Site Terms and Conditions of Use\n</h2>\n\n<h3>\n\t1. Terms\n</h3>\n\n<p>\n\tBy accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, applicable laws and regulations and their compliance. If you disagree with any of the stated terms and conditions, you are prohibited from using or accessing this site. The materials contained in this site are secured by relevant copyright and trade mark law. \n</p>\n\n<h3>\n\t2. Use License\n</h3>\n\n<ol type=\"a\">\n\t<li>\n\t\tPermission is allowed to temporarily download one duplicate of the materials (data or programming) on Unbounded Acceleration LLC's site for individual and non-business use only. This is the just a permit of license and not an exchange of title, and under this permit you may not: \n\t\t\n\t\t<ol type=\"i\">\n\t\t\t<li>modify or copy the materials;</li>\n\t\t\t<li>use the materials for any commercial use , or for any public presentation (business or non-business); </li>\n\t\t\t<li>attempt to decompile or rebuild any product or material contained on Unbounded Acceleration LLC's site;</li>\n\t\t\t<li>remove any copyright or other restrictive documentations from the materials; or</li>\n\t\t\t<li>transfer the materials to someone else or even \"mirror\" the materials on other server.</li>\n\t\t</ol>\n\t</li>\n\t<li>\n\t\tThis permit might consequently be terminated if you disregard any of these confinements and may be ended by Unbounded Acceleration LLC whenever deemed. After permit termination or when your viewing permit is terminated, you must destroy any downloaded materials in your ownership whether in electronic or printed form.\n\t</li>\n</ol>\n\n<h3>\n\t3. Disclaimer\n</h3>\n\n<ol type=\"a\">\n\t<li>\n\t\tThe materials on Unbounded Acceleration LLC's site are given \"as is\". Unbounded Acceleration LLC makes no guarantees, communicated or suggested, and thus renounces and nullifies every single other warranties, including without impediment, inferred guarantees or states of merchantability, fitness for a specific reason, or non-encroachment of licensed property or other infringement of rights. Further, Unbounded Acceleration LLC does not warrant or make any representations concerning the precision, likely results, or unwavering quality of the utilization of the materials on its Internet site or generally identifying with such materials or on any destinations connected to this website. \n\t</li>\n</ol>\n\n<h3>\n\t4. Constraints\n</h3>\n\n<p>\n\tIn no occasion should Unbounded Acceleration LLC or its suppliers subject for any harms (counting, without constraint, harms for loss of information or benefit, or because of business interference,) emerging out of the utilization or powerlessness to utilize the materials on Unbounded Acceleration LLC's Internet webpage, regardless of the possibility that Unbounded Acceleration LLC or a Unbounded Acceleration LLC approved agent has been told orally or in written of the likelihood of such harm. Since a few purviews don't permit constraints on inferred guarantees, or impediments of obligation for weighty or coincidental harms, these confinements may not make a difference to you. \n</p>\n\n<h3>\n\t5. Amendments and Errata \n</h3>\n\n<p>\n\tThe materials showing up on Unbounded Acceleration LLC's site could incorporate typographical, or photographic mistakes. Unbounded Acceleration LLC does not warrant that any of the materials on its site are exact, finished, or current. Unbounded Acceleration LLC may roll out improvements to the materials contained on its site whenever without notification. Unbounded Acceleration LLC does not, then again, make any dedication to update the materials. \n</p>\n\n<h3>\n\t6. Links\n</h3>\n\n<p>\n\tUnbounded Acceleration LLC has not checked on the majority of the websites or links connected to its website and is not in charge of the substance of any such connected webpage. The incorporation of any connection does not infer support by Unbounded Acceleration LLC of the site. Utilization of any such connected site is at the user's own risk.\n</p>\n\n<h3>\n\t7. Site Terms of Use Modifications\n</h3>\n\n<p>\n\tUnbounded Acceleration LLC may update these terms of utilization for its website whenever without notification. By utilizing this site you are consenting to be bound by the then current form of these Terms and Conditions of Use. \n</p>\n\n<h3>\n\t8. Governing Law\n</h3>\n\n<p>\n\tAny case identifying with Unbounded Acceleration LLC's site should be administered by the laws of the country of Houston, Texas Unbounded Acceleration LLC State without respect to its contention of law provisions. \n</p>\n\n<p>\n\tGeneral Terms and Conditions applicable to Use of a Web Site.\n</p>\n\n<h2>\n\tPrivacy Policy\n</h2>\n\n<p>\n\tYour privacy is critical to us. Likewise, we have built up this Policy with the end goal you should see how we gather, utilize, impart and reveal and make utilization of individual data. The following blueprints our privacy policy. \n</p>\n\n<ul>\n\t<li>\n\t\tBefore or at the time of collecting personal information, we will identify the purposes for which information is being collected.\n\t</li>\n\t<li>\n\t\tWe will gather and utilization of individual data singularly with the target of satisfying those reasons indicated by us and for other good purposes, unless we get the assent of the individual concerned or as required by law.\n\t</li>\n\t<li>\n\t\tWe will just hold individual data the length of essential for the satisfaction of those reasons.\n\t</li>\n\t<li>\n\t\tWe will gather individual data by legal and reasonable means and, where fitting, with the information or assent of the individual concerned. \n\t</li>\n\t<li>\n\t\tPersonal information ought to be important to the reasons for which it is to be utilized, and, to the degree essential for those reasons, ought to be exact, finished, and updated. \n\t</li>\n\t<li>\n\t\tWe will protect individual data by security shields against misfortune or burglary, and also unapproved access, divulgence, duplicating, use or alteration. \n\t</li>\n\t<li>\n\t\tWe will promptly provide customers with access to our policies and procedures for the administration of individual data. \n\t</li>\n</ul>\n\n<p>\n\tWe are focused on leading our business as per these standards with a specific end goal to guarantee that the privacy of individual data is secure and maintained. \n</p>\n</div>",
+          "_customCSS": "/* Type valid AMP CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  display: block;\n  margin-top: 1em;\n  margin-bottom: 1em;\n  margin-left: 0;\n  margin-right: 0;\n}\n\n\nh2 {\n  display: block;\n  font-size: 2em;\n  margin-top: 0.67em;\n  margin-bottom: 0.67em;\n  margin-left: 0;\n  margin-right: 0;\n  font-weight: bold;\n}\n\nh3 {\n  display: block;\n  font-size: 1.17em;\n  margin-top: 1em;\n  margin-bottom: 1em;\n  margin-left: 0;\n  margin-right: 0;\n  font-weight: bold;\n}\n\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-d",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        }
+      ]
+    },
+    "unsubscribebuyer.html": {
+      "settings": {
+        "title": "Unsubscribe Buyer",
+        "order": 1
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid AMP HTML here --&gt;\n<!-- for more info: https://www.ampproject.org/ -->\n\n<div>\n    <p class=\"display-1\">Unsubscribe from our Elite Buyer's List</p>\n    \n  <!--  <p class=\"display-3\">Click to Open Code Editor</p>-->\n\n<form action=\"https://crm.zoho.com/crm/Unsubscribe?encoding=UTF-8\" method=\"POST\" name=\"unsubForm\" onsubmit=\"return emailValidate()\">   <input type=\"hidden\" name=\"xnQsjsdp\" value=\"4cb2d4d2bbf1ff93492120807a97eb702a178f5f8d9e77aaa1b0a7cf0a2084f2\">  <input type=\"hidden\" name=\"actionType\" value=\"dW5zdWJzY3JpYmU=\">  <input type=\"hidden\" name=\"returnURL\" value=\"https://www.unbounded-realestate.com/elitebuyer\"><table width=\"481\" style=\"border:10px solid #f4f4f4;\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td style=\"padding:10px 0px 10px 10px; font-family:sans-serif; font-size:13px;\"><strong>Enter Your Email Address</strong> </td><td style=\"padding:10px 0px 10px 10px;\"><input type=\"text\" name=\"email\" maxlength=\"120\" style=\"width:190px;border:1px solid #c4d6e2; background-color:#fbfdff; font-family:sans-serif; font-size:13px;\"></td><td style=\"padding:10px 10px 10px 0px;\"><input type=\"submit\" style=\"background-color:#7a7e8a; color:#ffffff; font-weight:bold; font-family:sans-serif; font-size:11px; border:1px solid #616572;\" value=\"Unsubscribe\"></td></tr></tbody></table>  [JS_CODE_0]</form>\n\n\n\n</div>",
+          "_customCSS": "/* Type valid AMP CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 20px;\n  color: #777;\n}\n\nform\n{\n    display: inline-block;\n    margin-left: auto;\n    margin-right: auto;\n    text-align: left;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-e",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>function emailValidate(){var email=document.forms['unsubForm']['email'].value;document.forms['unsubForm']['email'].value= email.trim();var atpos=email.indexOf('@');var dotpos=email.lastIndexOf('.');if (atpos<1 || dotpos<atpos+2 || dotpos+2>=email.length){alert('Please enter a valid email address.');return false;}}</script>"
+          ]
         }
       ]
     }
